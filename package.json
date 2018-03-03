@@ -1,0 +1,38 @@
+{
+  "name": "webpack-spritesmith-notes",
+  "version": "0.0.0",
+  "description": "webpackSpritesmith notes.",
+  "homepage": "https://github.com/afeiship/webpack-spritesmith-notes",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.1.0",
+    "css-loader": "^0.28.10",
+    "del": "^2.2.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.11",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-size": "^2.1.0",
+    "gulp-uglify": "^2.1.2",
+    "node-sass": "^4.7.2",
+    "postcss-loader": "^2.1.1",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.20.2",
+    "url-loader": "^1.0.0",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.10",
+    "webpack-spritesmith": "^0.4.0",
+    "yargs": "^4.7.1"
+  }
+}
