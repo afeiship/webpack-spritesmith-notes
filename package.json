@@ -53,6 +53,7 @@
     "yargs": "^4.7.1"
   },
   "dependencies": {
+    "ejs": "^2.5.7",
     "spritesmith": "^3.3.0"
   }
 }
